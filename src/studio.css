@@ -1,0 +1,26 @@
+/* A quiet starting page. Change its appearance to fit the project you choose. */
+
+:root {
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
+  color: #20212a;
+  background: #faf9f6;
+}
+
+body {
+  margin: 0;
+  padding: 2rem;
+}
+
+main {
+  max-width: 54rem;
+  margin: 0 auto;
+}
+
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #b9bac2;
+  background: white;
+}

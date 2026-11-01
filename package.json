@@ -1,0 +1,9 @@
+{
+  "name": "pattern-studio-utils",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun --hot ./index.html",
+    "test": "bun test"
+  }
+}
